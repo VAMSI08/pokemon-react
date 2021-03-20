@@ -1,5 +1,5 @@
 # pokemon-react
-For API referance check this [PokeAPI](https://pokeapi.co/docs/v2).{:target="_blank"}
+For API referance check this [PokeAPI](https://pokeapi.co/docs/v2){:target="_blank"}
 _____
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
